@@ -7,7 +7,7 @@ User = get_user_model()
 
 #Модель для ингридиентов
 class Ingredient(models.Model):
-    name = models.CharField(max_length=50, verbose_name='Имя ингредиента')
+    name = models.CharField(max_length=200, verbose_name='Имя ингредиента')
     measurement_unit = models.CharField(max_length=50, verbose_name='Ед. измерения')
 
     def __str__(self):
