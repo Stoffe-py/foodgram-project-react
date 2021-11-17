@@ -55,4 +55,3 @@ jobs:
             sudo docker-compose rm backend
             sudo docker pull ${{ secrets.DOCKER_USERNAME }}/foodgrammy
             sudo docker-compose up -d
-
