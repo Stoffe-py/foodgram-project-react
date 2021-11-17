@@ -22,5 +22,5 @@
 
 ```Проект запущен и доступен по  адресу (http://62.84.116.32) ```
 
-'login: stoffe123
+'login: artemgrebenuk@gmail.com
 'password: njgjkm123
